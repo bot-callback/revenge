@@ -1,0 +1,7 @@
+{
+  "name": "Death notification",
+  "description": "夜間は全体ミュート、朝や昼は選んだサーバーだけ通知をストップします。",
+  "author": "YourName",
+  "main": "index.js",
+  "hash": "1"
+}
